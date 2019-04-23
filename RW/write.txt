@@ -1,0 +1,1 @@
+abc.txt:0,def.txt:1,ghi.txt:1,
